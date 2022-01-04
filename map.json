@@ -850,6 +850,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"christmas",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Free use\nCredit to:\nhttps:\/\/www.deviantart.com\/phyromatical\nhttps:\/\/www.deviantart.com\/magiscarf\nhttps:\/\/www.deviantart.com\/chaoticcherrycake\nhttps:\/\/www.deviantart.com\/tyranitardark\nhttps:\/\/www.deviantart.com\/iametrine\nhttps:\/\/www.deviantart.com\/wesleyfg"
+                }],
          "spacing":0,
          "tilecount":108,
          "tileheight":32,
