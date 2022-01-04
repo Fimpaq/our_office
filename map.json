@@ -572,7 +572,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)\nCredits: pipoya.itch.io\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32\nCredits: https:\/\/www.deviantart.com\/phyromatical\nCredits: deviantart.com\/thebigblueserpent\nhttps:\/\/www.deviantart.com\/thebigblueserpent\/art\/32x32-Assorted-Tileset-378784570\nCredits: Ivan Voirol @ opengameart\nhttps:\/\/opengameart.org\/content\/slates-32x32px-orthogonal-tileset-by-ivan-voirol\n"
+         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)\n\nTilesets:\nCredits: pipoya.itch.io\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32\nCredits: phyromatical\nhttps:\/\/www.deviantart.com\/phyromatical\nCredits: deviantart.com\/thebigblueserpent\nhttps:\/\/www.deviantart.com\/thebigblueserpent\/art\/32x32-Assorted-Tileset-378784570\nCredits: Ivan Voirol @ opengameart\nhttps:\/\/opengameart.org\/content\/slates-32x32px-orthogonal-tileset-by-ivan-voirol\n"
         }, 
         {
          "name":"mapDescription",
@@ -716,6 +716,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"basic_surfaces",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Thebigblueserpent\nhttps:\/\/www.deviantart.com\/thebigblueserpent\/art\/32x32-Assorted-Tileset-378784570\nLicense notice:\nPlease credit me if used."
+                }],
          "spacing":0,
          "tilecount":196,
          "tileheight":32,
@@ -729,6 +735,12 @@
          "imagewidth":500,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"pipoya\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32\nLicense\n- For commercial or personal use.\n- Use and edit freely.\n- Not redistribute or resell this assets.\n- It can be used for game development and other productions.\n\n"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -779,6 +791,12 @@
          "imagewidth":1792,
          "margin":0,
          "name":"Slates v.2 [32x32px orthogonal tileset by Ivan Voirol]",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ivan voirol\nhttps:\/\/opengameart.org\/content\/slates-32x32px-orthogonal-tileset-by-ivan-voirol\nCopyright\/Attribution Notice: \nIvan Voirol"
+                }],
          "spacing":0,
          "tilecount":1344,
          "tileheight":32,
@@ -813,6 +831,12 @@
          "imagewidth":1792,
          "margin":0,
          "name":"slates_greyscale",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ivan voirol\nhttps:\/\/opengameart.org\/content\/slates-32x32px-orthogonal-tileset-by-ivan-voirol\nCopyright\/Attribution Notice: \nIvan Voirol"
+                }],
          "spacing":0,
          "tilecount":1288,
          "tileheight":32,
